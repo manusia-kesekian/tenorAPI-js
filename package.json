@@ -1,0 +1,14 @@
+{
+  "name": "tenor-api",
+  "version": "1.0.0",
+  "description": "nyobain api nya tenor di discord walapun udah ada gif tenor di discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "start-dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
+}
